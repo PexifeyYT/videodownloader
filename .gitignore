@@ -1,0 +1,10 @@
+venv/
+dist/
+build/
+output/
+installer_output/
+__pycache__/
+*.spec
+*.pyc
+config.json
+_inno_setup_tmp.exe
